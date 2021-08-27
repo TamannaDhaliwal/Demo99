@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 10.753 s <<< FAILURE! - in TestSuite
+verifyTitle(com.qa.test.LoginPageTest)  Time elapsed: 0.091 s  <<< FAILURE!
+java.lang.AssertionError: expected [Guru99 Bank Home Page11] but found [Guru99 Bank Home Page]
+	at com.qa.test.LoginPageTest.verifyTitle(LoginPageTest.java:37)
+
